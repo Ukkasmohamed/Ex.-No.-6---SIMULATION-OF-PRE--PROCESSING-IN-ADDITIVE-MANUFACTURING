@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No.  -6 SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 04.09.2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/746650be-9d0a-46e6-8fa4-e10cac3fded2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56406883-4071-4e6b-a095-e239f98d86ee" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4aa754ee-7c66-43d7-b1e6-cf0f14bf7582" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a186789-27fc-43dc-9116-9b0553d6af3f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c44487d3-9f96-4dce-b8d6-e1cc797f33b0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f44c483f-a6a0-45cf-8d06-e6c3f827a402" />
+
+### Name: Mohamed Ukkas 
+### Register Number: 212225040245
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
